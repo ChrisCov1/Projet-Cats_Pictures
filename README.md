@@ -14,3 +14,5 @@ http://localhost:3000/
 
 - base de donnée : PostGre 
 - HTML/CSS : Bootstrap
+
+Navrée mais ce projet est rendu incomplet car avec mon équipe nous avons essuyé l'absence imprévue du compère chargé du backend et vu l'annonce tardive nous n'avons pas pu rectifier ce manquement dans notre avancée.
